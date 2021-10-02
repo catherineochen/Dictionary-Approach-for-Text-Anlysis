@@ -1,4 +1,4 @@
-# Dictionary-Approach-for-Text-Anlysis
+# Dictionary_approach_for_text_analysis
 
 This is a data and code repository for the article "Policy Composition and Adoption Duration: Capturing conflict in the legislative process" 
 (Chen et al.), to be published in Policy Studies Journal. The article explores the associations between policy composition and the 
