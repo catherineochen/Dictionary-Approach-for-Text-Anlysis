@@ -1,7 +1,7 @@
 # Dictionary-Approach-for-Text-Anlysis
 
 This is a data and code repository for the article "Policy Composition and Adoption Duration: Capturing conflict in the legislative process" 
-(Chen et al.), to be published in Policy Studies Journal. The article investigates explores the associations between policy composition and the 
+(Chen et al.), to be published in Policy Studies Journal. The article explores the associations between policy composition and the 
 relative duration for oil and gas policies to be adopted in 15 U.S. state legislatures.
 
 This data repository demonstrates how to analyze the composition of legislation using dictionaries developed based on Institutional Grammar Tools 
