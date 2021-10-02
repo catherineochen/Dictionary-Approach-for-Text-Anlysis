@@ -1,0 +1,1503 @@
+﻿administrative law judge,actor_court
+stenographic reporter,actor_court
+superior court,actor_court
+court,actor_court
+supreme court,actor_court
+commonwealth court,actor_court
+circuit court of kanawha county,actor_court
+engineer,actor_expert
+american chemical society,actor_expert
+chemical abstract service,actor_expert
+american industrial hygiene association,actor_expert
+american society of mechanical engineer,actor_expert
+american society for test and material,actor_expert
+american water work association,actor_expert
+national association of corrosion engineer,actor_expert
+national fire protection association,actor_expert
+geologist,actor_expert
+health professional,actor_expert
+auditor,actor_expert
+referee,actor_expert
+state geologist,actor_expert
+american public works association,actor_expert
+lignite research council,actor_expert
+county auditor,actor_expert
+joint stock association,actor_expert
+society of civil engineers,actor_expert
+surveyor,actor_expert
+texas board of professional engineers,actor_expert
+texas board of professional geoscientists,actor_expert
+financial accounting standards board,actor_expert
+partnership association,actor_expert
+rural water association,actor_expert
+steel tank institute,actor_expert
+army corp of engineer,actor_fed
+national institute of occupational safety and health,actor_fed
+department of commerce,actor_fed
+national institute of standard and technology,actor_fed
+air force,actor_fed
+army reservation,actor_fed
+army,actor_fed
+coast guard,actor_fed
+department of defense,actor_fed
+marine corps,actor_fed
+navy,actor_fed
+united states armed forces,actor_fed
+department of energy,actor_fed
+secretary of energy,actor_fed
+bureau of indian affair branch of acknowledgement and research,actor_fed
+bureau of indian affair,actor_fed
+bureau of land management,actor_fed
+department of the interior,actor_fed
+secretary of the interior,actor_fed
+department of labor,actor_fed
+bureau of labor statistic,actor_fed
+department of transportation,actor_fed
+energy information administration,actor_fed
+environmental protection agency,actor_fed
+federal emergency management agency,actor_fed
+federal energy regulatory commission,actor_fed
+firearm division of the federal department,actor_fed
+government print office,actor_fed
+agency for toxic substance and disease registry,actor_fed
+department of health and human services,actor_fed
+natural resource conservation service,actor_fed
+natural resources conservation service,actor_fed
+office of management and budget,actor_fed
+pipeline and hazardous material safety administration,actor_fed
+office of hazardous material safety,actor_fed
+department of agriculture,actor_fed
+department of the treasury,actor_fed
+united states forest service,actor_fed
+geological survey,actor_fed
+epa,actor_fed
+fed,actor_fed
+federal bureau of land management,actor_fed
+united states department of the interior,actor_fed
+occupational safety and health administration,actor_fed
+administrator of the united states environmental protection agency,actor_fed
+motana department of transportation,actor_fed
+bureau of labor statistics,actor_fed
+homeland security,actor_fed
+united states internal revenue service,actor_fed
+internal revenue service,actor_fed
+bureau of statistics,actor_fed
+federal government ,actor_fed
+united states census bureau,actor_fed
+united states department of labor ,actor_fed
+united states department of transportation,actor_fed
+united states geological survey,actor_fed
+united states treasury,actor_fed
+united states energy information administration,actor_fed
+centers for disease control,actor_fed
+chemical safety and hazard and investigation board,actor_fed
+united states army corps of engineers,actor_fed
+united states coast guard,actor_fed
+united states department of agriculture,actor_fed
+united states environmental protection agency,actor_fed
+united states internal revenue code,actor_fed
+american petroleum institute,actor_industry
+applicant,actor_industry
+commercial operator,actor_industry
+contractor,actor_industry
+crude oil natural gas,actor_industry
+designate agent,actor_industry
+designate qualiy contractor,actor_industry
+direct corporate association,actor_industry
+drill contractor,actor_industry
+driller,actor_industry
+energy and mineral industry,actor_industry
+expert,actor_industry
+gas corporation,actor_industry
+gas corporation workforce,actor_industry
+independent petroleum association,actor_industry
+independent entity,actor_industry
+indirect corporate association,actor_industry
+local distribution company,actor_industry
+mine company,actor_industry
+mine operation,actor_industry
+mineral owner,actor_industry
+natural gas producer association,actor_industry
+oil and gas association,actor_industry
+nonconsent owner,actor_industry
+oil and gas company,actor_industry
+oil and gas operation,actor_industry
+operator,actor_industry
+person engage in drill or service well,actor_industry
+plant operator,actor_industry
+producer,actor_industry
+refiner,actor_industry
+report entity,actor_industry
+responsible party,actor_industry
+royalty owner,actor_industry
+scientific profession,actor_industry
+service company,actor_industry
+service provider,actor_industry
+surface property owner,actor_industry
+third party manufacturer,actor_industry
+transporter facility,actor_industry
+vendor,actor_industry
+construction sector,actor_industry
+pacific gas and electric,actor_industry
+san diego gas and electric,actor_industry
+southern california edison,actor_industry
+authorize project designee,actor_industry
+offset project operator,actor_industry
+missouri independent oil and gas association,actor_industry
+omimex,actor_industry
+international association of drilling contractors,actor_industry
+businesses,actor_industry
+marcellus gas,actor_industry
+onondaga  group,actor_industry
+air pollution control district,actor_local
+air quality management district,actor_local
+alameda reuse and redevelopment authority,actor_local
+arra,actor_local
+avondale glen elder neighborhood association,actor_local
+candlestick point state recreation area,actor_local
+central valley flood protection board,actor_local
+county assessor,actor_local
+county public health director,actor_local
+federal mineral lease district,actor_local
+home rule or statutory city,actor_local
+local government liaison,actor_local
+local governmental designee,actor_local
+local government,actor_local
+local health officer,actor_local
+local jurisdiction,actor_local
+local plan entity,actor_local
+monterey,actor_local
+municipality,actor_local
+port commission,actor_local
+public trust administrator,actor_local
+regional park district,actor_local
+regional water board,actor_local
+regional water quality control board,actor_local
+statutory city,actor_local
+tax collector,actor_local
+territorial charter city,actor_local
+county of imperial,actor_local
+county of san diego,actor_local
+county of san francisco,actor_local
+county of san mateo,actor_local
+county of santa barbara,actor_local
+city of alameda,actor_local
+humboldt,actor_local
+imperial,actor_local
+jamestown,actor_local
+los angel,actor_local
+san bruno,actor_local
+sacramento,actor_local
+yerba buena,actor_local
+booneville,actor_local
+chismville,actor_local
+township,actor_local
+town,actor_local
+denver,actor_local
+laramiefox hills,actor_local
+solid waste management board,actor_local
+montana,actor_local
+board of county commisioners,actor_local
+onondaga,actor_local
+the office of parks,actor_local
+oriskany,actor_local
+medina,actor_local
+trenton,actor_local
+cattaraugus,actor_local
+board of township trustees,actor_local
+franklin county,actor_local
+oklahoma county,actor_local
+allentown,actor_local
+council of governments,actor_local
+county emergency management organization,actor_local
+philadelphia,actor_local
+reimbursement board,actor_local
+susquehanna river basin commission,actor_local
+county commission,actor_local
+kanawha county,actor_local
+local board of health,actor_local
+municipal league,actor_local
+tax commissioner,actor_local
+verification body,actor_other
+verification team,actor_other
+verifier,actor_other
+complainant,actor_other
+intervenor,actor_other
+newspaper,actor_other
+child care center,actor_other
+college,actor_other
+public school,actor_other
+school govern body,actor_other
+mineral law institute,actor_other
+university,actor_other
+violator,actor_other
+user,actor_other
+product specific group,actor_other
+missouri university of science and technology,actor_other
+university of missouri ,actor_other
+bank of north dakota,actor_other
+purchaser,actor_other
+university of north dakota,actor_other
+wall street journal,actor_other
+stakeholder group,actor_other
+united states postal service,actor_other
+great lakes commission,actor_other
+interstate oil and gas compact commission,actor_other
+new york mercantile exchange,actor_other
+nymex,actor_other
+marshall university,actor_other
+conservation group,actor_public
+community conservation corps,actor_public
+youthbuild,actor_public
+build unit owner,actor_public
+general public,actor_public
+local public forum,actor_public
+owner of the water well,actor_public
+people,actor_public
+protestant,actor_public
+public comment,actor_public
+resident,actor_public
+respondent,actor_public
+shareholder,actor_public
+community,actor_public
+landowner,actor_public
+lessee,actor_public
+surface owner,actor_public
+tenant,actor_public
+indian tribe,actor_public
+indian land,actor_public
+indian,actor_public
+tribal,actor_public
+tribe,actor_public
+tribal entity,actor_public
+indians,actor_public
+tribes ,actor_public
+owners,actor_public
+citizens advisory council,actor_public
+common ground alliance,actor_public
+west virginians,actor_public
+air resource board,actor_state
+air resources board,actor_state
+office of business and economic development,actor_state
+state of california,actor_state
+executive officer,actor_state
+fire prevention and control,actor_state
+state fire marshal,actor_state
+department of general services,actor_state
+department of general service,actor_state
+division of mine reclamation,actor_state
+department of conservation,actor_state
+director,actor_state
+department of correction,actor_state
+controller,actor_state
+department of revenue,actor_state
+department of finance,actor_state
+department of tax,actor_state
+department of motor vehicle,actor_state
+director of finance,actor_state
+state treasury,actor_state
+treasurer,actor_state
+attorney general,actor_state
+department of law,actor_state
+department of resource recycle,actor_state
+department of resources recycle,actor_state
+california department of transportation,actor_state
+arkansas department of transportation,actor_state
+louisiana department of transportation,actor_state
+department of technology,actor_state
+department of public health,actor_state
+department of health care,actor_state
+department of pesticide regulation,actor_state
+department of toxic substance control,actor_state
+environmental chemistry laboratory,actor_state
+environmental chemistry lab,actor_state
+human and ecological risk division,actor_state
+office of pollution prevention and technology development,actor_state
+ecology commission,actor_state
+energy commission,actor_state
+energy resources conservation and development commission,actor_state
+energy resource conservation and development commission,actor_state
+gas commission,actor_state
+conservation corps,actor_state
+department of energy and environment,actor_state
+department of environmental quality,actor_state
+division of environmental quality,actor_state
+arkansas pollution control,actor_state
+department of fish and wildlife,actor_state
+fish and game commission,actor_state
+game and fish commission,actor_state
+aquaculture development committee,actor_state
+department of forestry and fire protection,actor_state
+department of park,actor_state
+department of water resource,actor_state
+department of water resources,actor_state
+california environmental protection agency,actor_state
+mineral board,actor_state
+department of natural resource,actor_state
+department of natural resources,actor_state
+well study commission,actor_state
+natural resources agency,actor_state
+natural resource agency,actor_state
+natural resource commission,actor_state
+natural resources commission,actor_state
+geologic energy management division,actor_state
+governor,actor_state
+california geological survey,actor_state
+arkansas geological survey,actor_state
+louisiana geological survey,actor_state
+ground water protection council,actor_state
+board of tide land commission,actor_state
+state land commission,actor_state
+state land board,actor_state
+assembly natural resource,actor_state
+assembly natural resources,actor_state
+senate environmental quality,actor_state
+budget committee,actor_state
+general assembly,actor_state
+house of representative,actor_state
+natural resource and water committee,actor_state
+natural resources and water committee,actor_state
+natural resources committee,actor_state
+committee on natural,actor_state
+senate,actor_state
+legislature of,actor_state
+military department,actor_state
+office of environmental health hazard assessment,actor_state
+office of emergency services,actor_state
+division of oil gas and geothermal resource,actor_state
+division of oil gas and geothermal resources,actor_state
+supervisor,actor_state
+office of spill prevention and response,actor_state
+administrator,actor_state
+oil spill technical advisory committee,actor_state
+political party,actor_state
+public utility commission,actor_state
+public service commission,actor_state
+utility regulatory commission,actor_state
+science center foundation,actor_state
+science center,actor_state
+bay conservation and development commission,actor_state
+coastal commission,actor_state
+coastal conservancy,actor_state
+division of boat and waterway,actor_state
+state water resource control board,actor_state
+state water resources control board,actor_state
+state water board,actor_state
+colorado,actor_state
+colorado house,actor_state
+colorado municipal league,actor_state
+department of local affairs ,actor_state
+division of wildlife,actor_state
+energy impact advisory committee,actor_state
+energy impact assistance advisory committee,actor_state
+gas conservation commission,actor_state
+joint budget committee,actor_state
+real estate commission,actor_state
+state of colorado,actor_state
+wildlife commission,actor_state
+advisory committee,actor_state
+indiana,actor_state
+indiana underground plant protection service,actor_state
+department of environmental management,actor_state
+nuclear regulatory commission,actor_state
+legislative council,actor_state
+clean water commission,actor_state
+department of economic development,actor_state
+division of commerce,actor_state
+missouri,actor_state
+missouri public service commission,actor_state
+department of justice ,actor_state
+department of transportation ,actor_state
+state tax appeal board,actor_state
+board of university and school,actor_state
+department of mineral resources,actor_state
+energy development and transmission committee,actor_state
+industrial commission,actor_state
+legislative assembly ,actor_state
+north dakota,actor_state
+outdoor heritage advisory board,actor_state
+state department of agriculture,actor_state
+state department of health,actor_state
+state water commission,actor_state
+treasury,actor_state
+workforce solutions department,actor_state
+new mexico,actor_state
+new york,actor_state
+board of motor vehicle collision repair,actor_state
+bureau of workers compensation ,actor_state
+commission of the facts,actor_state
+department of job and family services,actor_state
+department of taxation,actor_state
+director of budget and management,actor_state
+emergency response commission,actor_state
+office of budget and management,actor_state
+office of child support,actor_state
+office of internal auditing,actor_state
+ohio,actor_state
+ohio soil and water conservation,actor_state
+pennsylvanian,actor_state
+public utilities commission,actor_state
+technical advisory council on oil and gas,actor_state
+underground technical committee,actor_state
+corporation commission,actor_state
+legislature,actor_state
+oklahoma,actor_state
+tax commission,actor_state
+land office,actor_state
+transportation system safety act commission,actor_state
+appropriations committee,actor_state
+committee on consumer affairs,actor_state
+committee on consumer protection and professional licensure,actor_state
+commonwealth,actor_state
+commonwealth financing authority,actor_state
+damage prevention committee,actor_state
+delaware,actor_state
+delaware river basin commission,actor_state
+department of community and economic development,actor_state
+department of continuation,actor_state
+department of environmental protection,actor_state
+department of environmental resources,actor_state
+department of labor and industry,actor_state
+department of notice of bankruptcy,actor_state
+environmental hearing board,actor_state
+environmental quality board,actor_state
+environmental resources and energy committee of the house of representatives,actor_state
+legislative reference bureau,actor_state
+maryland,actor_state
+new jersey ,actor_state
+pennsylvania,actor_state
+pennsylvania department of transportation,actor_state
+pennsylvania emergency management agency,actor_state
+pennsylvania fish and boat commission,actor_state
+pennsylvania housing finance agency,actor_state
+pennsylvania infrastructure investment authority,actor_state
+pennsylvania public utility commission,actor_state
+pennsylvania turnpike commission,actor_state
+state conservation commission,actor_state
+state government,actor_state
+state public school building authority,actor_state
+texas,actor_state
+railroad commission,actor_state
+texas commission on environmental quality,actor_state
+board of oil and gas conservation,actor_state
+bureau for public health,actor_state
+bureau of employment programs,actor_state
+business industry council,actor_state
+commissioner of highways,actor_state
+department of administration,actor_state
+division of environmental protection,actor_state
+division of highways,actor_state
+division of homeland security and emergency management,actor_state
+division of labor,actor_state
+division of motor vehicles,actor_state
+division of natural resources,actor_state
+division of personnel,actor_state
+fracfocus chemical disclosure registry,actor_state
+geological and economic survey,actor_state
+house of delegates,actor_state
+interior's geological survey,actor_state
+jobs development council,actor_state
+joint committee on government and finance,actor_state
+joint committee on health,actor_state
+joint legislative oversight commission,actor_state
+legislative oversight commission on education accountability,actor_state
+legislative rule making review committee,actor_state
+mine and industrial accident call center,actor_state
+office of oil and gas,actor_state
+office of the insurance,actor_state
+ohio river valley water sanitation commission,actor_state
+oil and gas conservation commission,actor_state
+public water system supply study commission,actor_state
+shallow gas well review board,actor_state
+state advisory council on public health,actor_state
+state board of health,actor_state
+state board of registration for professional engineers,actor_state
+state bureau for public health,actor_state
+state department of environmental protection,actor_state
+state of west virginia,actor_state
+state register,actor_state
+state tax commissioner,actor_state
+water development authority,actor_state
+west virginia,actor_state
+west virginia department of environmental protection,actor_state
+west virginia department of health and human resources,actor_state
+west virginia division of highways,actor_state
+west virginia economic development authority,actor_state
+west virginia legislature,actor_state
+west virginia public service commission,actor_state
+west virginia rivers coalition,actor_state
+west virginia shallow gas well review board,actor_state
+west virginia university,actor_state
+finance payment,object_tax_finance
+financial assurance,object_tax_finance
+oil and gas reclamation fund,object_tax_finance
+oilfield site restoration fund,object_tax_finance
+oil and gas regulatory fund,object_tax_finance
+geologic storage trust fund,object_tax_finance
+petroleum tank release cleanup fund,object_tax_finance
+site reclamation fund,object_tax_finance
+general revenue fund,object_tax_finance
+general fund,object_tax_finance
+abandon and orphan well plug fund,object_tax_finance
+unconventional gas well fund,object_tax_finance
+oil and gas lease fund,object_tax_finance
+mineral lease fund,object_tax_finance
+public school fund,object_tax_finance
+school fund,object_tax_finance
+mineral impact fund,object_tax_finance
+severance tax fund,object_tax_finance
+severance tax rate,object_tax_finance
+environmental response fund,object_tax_finance
+county road fund,object_tax_finance
+county infrastructure fund,object_tax_finance
+infrastructure fund,object_tax_finance
+expenditure,object_tax_finance
+appropriation,object_tax_finance
+income,object_tax_finance
+payment,object_tax_finance
+cash fund,object_tax_finance
+check stub,object_tax_finance
+money,object_tax_finance
+lien,object_tax_finance
+lease,object_tax_finance
+severance,object_tax_finance
+entity withhold tax act,object_policies_other
+withhold tax act,object_policies_other
+taxation,object_tax_finance
+cleanup fund,object_tax_finance
+assignment,object_tax_finance
+conveyance,object_tax_finance
+exchange,object_tax_finance
+possession,object_tax_finance
+acquire,object_tax_finance
+indemnity bond,object_tax_finance
+oil gas and geothermal administrative fund,object_tax_finance
+bearer bond,object_tax_finance
+bearer note,object_tax_finance
+production facility bond,object_tax_finance
+quitclaim,object_tax_finance
+trust exchange,object_tax_finance
+refund,rule_payoff
+supplemental bond,object_tax_finance
+wellbore royalty interest,object_tax_finance
+wellbore royalty proceed,object_tax_finance
+blanket bond,object_tax_finance
+bond,object_tax_finance
+stratigraphic well,object_ogdevelopment
+secondary containment,object_ogdevelopment
+trade secret,object_ogdevelopment
+well pad,object_ogdevelopment
+effluent,object_ogdevelopment
+chemical product,object_ogdevelopment
+chemical treatment,object_ogdevelopment
+enhance oil recovery,object_ogdevelopment
+inactive well,object_ogdevelopment
+disposal well,object_ogdevelopment
+injection well,object_ogdevelopment
+shallow well,object_ogdevelopment
+deep well,object_ogdevelopment
+commercial well,object_ogdevelopment
+industrial well,object_ogdevelopment
+test well,object_ogdevelopment
+multiwell site,object_ogdevelopment
+well site,object_ogdevelopment
+compressor station,object_ogdevelopment
+reciprocate natural gas compressor,object_ogdevelopment
+exploratory well,object_ogdevelopment
+abandon well,object_ogdevelopment
+orphan well,object_ogdevelopment
+orphan site,object_ogdevelopment
+gather line,object_ogdevelopment
+crude oil transfer line,object_ogdevelopment
+gas production machinery,object_ogdevelopment
+phmsa gather system,object_ogdevelopment
+petroleum refinery,object_ogdevelopment
+large uma facility,object_ogdevelopment
+ep waste disposal facility,object_ogdevelopment
+vapor gather system,object_ogdevelopment
+vapor collection system,object_ogdevelopment
+emission control,object_ogdevelopment
+glycol dehydrator,object_ogdevelopment
+carbon adsorption system,object_ogdevelopment
+control device,object_ogdevelopment
+vapor recovery system,object_ogdevelopment
+new source,object_ogdevelopment
+exist source,object_ogdevelopment
+oil and gas well,object_ogdevelopment
+oil or gas well,object_ogdevelopment
+soil liner,object_ogdevelopment
+production facility,object_ogdevelopment
+production water well,object_ogdevelopment
+hydrostatic pressure,object_ogdevelopment
+hydraulically fracture,object_ogdevelopment
+hydraulic fracture fluid,object_ogdevelopment
+hydraulic fracture treatment,object_ogdevelopment
+hydraulic fracture,object_ogdevelopment
+hydraulic cement,object_ogdevelopment
+horizontal directional drill,object_ogdevelopment
+horizontal drill,object_ogdevelopment
+sedimentation pond,object_ogdevelopment
+drill pad,object_ogdevelopment
+bulk plant,object_ogdevelopment
+flowline,object_ogdevelopment
+flow line,object_ogdevelopment
+terminal,object_ogdevelopment
+berm,object_ogdevelopment
+interstate hazardous liquid pipeline,object_ogdevelopment
+interstate gas pipeline,object_ogdevelopment
+active gas pipeline,object_ogdevelopment
+pump jack,object_ogdevelopment
+pump station,object_ogdevelopment
+pump,object_ogdevelopment
+barrel,object_ogdevelopment
+seal,object_ogdevelopment
+pit,object_ogdevelopment
+flare,object_ogdevelopment
+wellhead,object_ogdevelopment
+shothole,object_ogdevelopment
+basin,object_ogdevelopment
+sand,object_ogdevelopment
+proppant,object_ogdevelopment
+condensate,object_ogdevelopment
+battery,object_ogdevelopment
+bradenhead,object_ogdevelopment
+heater treater,object_ogdevelopment
+injection equipment,object_ogdevelopment
+header,object_ogdevelopment
+disconnection,object_ogdevelopment
+reconnection,object_ogdevelopment
+light procedure,object_ogdevelopment
+pilot relight,object_ogdevelopment
+relief well,object_ogdevelopment
+multiunit horizontal well,object_ogdevelopment
+horizontal well,object_ogdevelopment
+completion interval,object_ogdevelopment
+lateral,object_ogdevelopment
+plan of development,object_ogdevelopment
+point of entry,object_ogdevelopment
+terminus,object_ogdevelopment
+horizontal component,object_ogdevelopment
+vertical component,object_ogdevelopment
+seismic exploration,object_ogdevelopment
+weight drop equipment,object_ogdevelopment
+thumper,object_ogdevelopment
+hydropulse,object_ogdevelopment
+vibrator,object_ogdevelopment
+seismic exploration regulation act,object_policies_other
+additive,object_ogdevelopment
+base fluid,object_ogdevelopment
+continuous phase fluid,object_ogdevelopment
+nonhydrocarbon gas,object_ogdevelopment
+geologic formation,object_ogdevelopment
+steam flood,object_ogdevelopment
+water flood,object_ogdevelopment
+acid fracture treatment,object_ogdevelopment
+excavation site,object_ogdevelopment
+tolerance zone,object_ogdevelopment
+fracture zone,object_ogdevelopment
+deepen,object_ogdevelopment
+redrill,object_ogdevelopment
+alter the case,object_ogdevelopment
+oil and gas field sump,object_ogdevelopment
+idle well,object_ogdevelopment
+prospect well,object_ogdevelopment
+flow meter,object_ogdevelopment
+lng,object_ogdevelopment
+pneumatic,object_ogdevelopment
+vent stack,object_ogdevelopment
+blowdown,object_ogdevelopment
+measurement device,object_ogdevelopment
+tube,object_ogdevelopment
+connector,object_ogdevelopment
+fuel combustion unit,object_ogdevelopment
+pressure differential device,object_ogdevelopment
+well stimulation,object_ogdevelopment
+acid fracture,object_ogdevelopment
+packer,object_ogdevelopment
+acid stimulation treatment fluid,object_ogdevelopment
+acid well stimulation treatment,object_ogdevelopment
+acid matrix stimulation treatment,object_ogdevelopment
+acid matrix stimulation,object_ogdevelopment
+stimulation treatment,object_ogdevelopment
+restimulation,object_ogdevelopment
+axial dimensional stimulation area,object_ogdevelopment
+adsa,object_ogdevelopment
+pressure test,object_ogdevelopment
+slurry,object_ogdevelopment
+surface injection pressure,object_ogdevelopment
+annuli pressure,object_ogdevelopment
+hydrocarbon produce zone,object_ogdevelopment
+single tank,object_ogdevelopment
+combination of tank,object_ogdevelopment
+process tank,object_ogdevelopment
+above grind storage tank,object_ogdevelopment
+ast,object_ogdevelopment
+storage tank,object_ogdevelopment
+separator and tank system,object_ogdevelopment
+separator,object_ogdevelopment
+sump,object_ogdevelopment
+compressor rod pack,object_ogdevelopment
+wet seal,object_ogdevelopment
+underground gas storage,object_ogdevelopment
+underground storage facility,object_ogdevelopment
+underground facility,object_ogdevelopment
+temporary storage facility,object_ogdevelopment
+storage facility,object_ogdevelopment
+storage reservoir,object_ogdevelopment
+sale gas system,object_ogdevelopment
+sale,object_tax_finance
+fuel gas system,object_ogdevelopment
+casinghead gas,object_ogdevelopment
+flash gas,object_ogdevelopment
+flash chamber,object_ogdevelopment
+compressor,object_ogdevelopment
+oilfield portable unit,object_ogdevelopment
+publicly own treatment work,object_infrastructure
+public water system,object_infrastructure
+outside activity area,object_infrastructure
+residence,object_infrastructure
+educational facility,object_infrastructure
+recreation area,object_infrastructure
+high density area,object_infrastructure
+occupy structure,object_infrastructure
+nurse home,object_infrastructure
+hospital,object_infrastructure
+playground,object_infrastructure
+highway,object_infrastructure
+roadway,object_infrastructure
+right of way,object_infrastructure
+cartway,object_infrastructure
+line road,object_infrastructure
+township road,object_infrastructure
+public road,object_infrastructure
+road or street,object_infrastructure
+road,object_infrastructure
+septic tank,object_infrastructure
+well location space,object_og_policies_strategies
+notice of intent,object_og_policies_strategies
+surface use agreement,object_og_policies_strategies
+restrict surface occupancy area,object_og_policies_strategies
+site preparation,object_og_policies_strategies
+chemical inventory,object_og_policies_strategies
+chemical disclosure registry,object_og_policies_strategies
+space unit,object_og_policies_strategies
+buffer zone,object_og_policies_strategies
+plugback,object_og_policies_strategies
+replug,object_og_policies_strategies
+plug,object_og_policies_strategies
+stormwater management,object_og_policies_strategies
+external buffer,object_og_policies_strategies
+green completion,object_og_policies_strategies
+noise abatement,object_og_policies_strategies
+dust management,object_og_policies_strategies
+environmental safeguard,object_og_policies_strategies
+reclamation,object_og_policies_strategies
+remediation,object_og_policies_strategies
+erosion control,object_og_policies_strategies
+mitigation measure,object_og_policies_strategies
+land use,object_og_policies_strategies
+leak detection,object_og_policies_strategies
+detection survey,object_og_policies_strategies
+best management practice,object_og_policies_strategies
+bmp,object_og_policies_strategies
+land management plan,object_og_policies_strategies
+rice requirement,object_og_policies_strategies
+reasonably available control technology,object_og_policies_strategies
+ract,object_og_policies_strategies
+lact,object_og_policies_strategies
+msd,object_og_policies_strategies
+permit to drill,object_og_policies_strategies
+well permit,object_og_policies_strategies
+drill unit,object_og_policies_strategies
+involuntary poole,object_og_policies_strategies
+urban mitigation area,object_og_policies_strategies
+order find violation,object_og_policies_strategies
+ofv,object_og_policies_strategies
+comprehensive drill plan,object_og_policies_strategies
+set back,object_og_policies_strategies
+setback,object_og_policies_strategies
+memorandum of understand,object_og_policies_strategies
+subsurface protection,object_og_policies_strategies
+cleanup,object_og_policies_strategies
+abatement,object_og_policies_strategies
+removal of spill oil,object_og_policies_strategies
+minimum facility maintenance standard,object_og_policies_strategies
+spill contingency plan,object_og_policies_strategies
+remedial work,object_og_policies_strategies
+minimum standard,object_og_policies_strategies
+meter service,object_og_policies_strategies
+gas meter installation,object_og_policies_strategies
+meter maintenance,object_og_policies_strategies
+meter test,object_og_policies_strategies
+leak investigation,object_og_policies_strategies
+inspect customer pipe and appliance,object_og_policies_strategies
+carbon monoxide investigation,object_og_policies_strategies
+high bill investigation,object_og_policies_strategies
+collect and process consumption data,object_og_policies_strategies
+revenue cycle service,object_og_policies_strategies
+revenue,object_tax_finance
+radiological component,object_og_policies_strategies
+tracer,object_og_policies_strategies
+groundwater monitor plan,object_og_policies_strategies
+natural gas energy development program,object_og_policies_strategies
+underground injection control program,object_og_policies_strategies
+reuse,object_og_policies_strategies
+recycle,object_og_policies_strategies
+north american industry classification system,object_og_policies_strategies
+qc requirement,object_og_policies_strategies
+cfr,object_og_policies_strategies
+oem documentation,object_og_policies_strategies
+flash liberation test,object_og_policies_strategies
+measurement accuracy requirement,object_og_policies_strategies
+naic code,object_og_policies_strategies
+spcc plan,object_og_policies_strategies
+acid volume threshold,object_og_policies_strategies
+acid volume,object_ogdevelopment
+subsurface injection,object_og_policies_strategies
+underground injection project,object_og_policies_strategies
+cyclic steam injection,object_og_policies_strategies
+cyclic steam,object_ogdevelopment
+steamflood injection,object_og_policies_strategies
+injection disposal,object_og_policies_strategies
+waterflood injection,object_og_policies_strategies
+continuous leak screen,object_og_policies_strategies
+determination of volatile organic compound leak,object_og_policies_strategies
+alarm system,object_og_policies_strategies
+reference method,object_og_policies_strategies
+optical gas image,object_og_policies_strategies
+ogi,object_og_policies_strategies
+vapor control device,object_og_policies_strategies
+flash analysis test,object_og_policies_strategies
+flash analysis procedure,object_og_policies_strategies
+coal and gas resource coordination act,object_og_policies_strategies
+oil and gas conservation tax act,object_og_policies_strategies
+oil and gas act,object_og_policies_strategies
+shale reservoir development act,object_og_policies_strategies
+production revenue standard act,object_og_policies_strategies
+actlaw,object_policies_other
+federal maximum achievable control technology,object_policies_other
+greater sage grouse conservation plan,object_policies_other
+emergency plan and community right to know act,object_policies_other
+comprehensive environmental response compensation and liability act,object_policies_other
+occupational safety and health act,object_policies_other
+oil pollution act,object_policies_other
+water quality act,object_policies_other
+food drug and cosmetic act,object_policies_other
+natural gas pipeline safety act,object_policies_other
+hazardous liquid pipeline safety act,object_policies_other
+hazardous liquid pipeline act,object_policies_other
+hazardous liquid transportation system safety act,object_policies_other
+pipeline safety regulation,object_policies_other
+pipeline safety,object_ogdevelopment
+open record act,object_policies_other
+prsa,object_policies_other
+local public road act,object_policies_other
+clean water act,object_policies_other
+transfer act,object_policies_other
+confidentiality agreement,object_policies_other
+federal water pollution control act,object_policies_other
+national ambient air quality standard,object_policies_other
+national pollutant discharge elimination system,object_policies_other
+state implementation plan,object_policies_other
+safe drink water act,object_policies_other
+drink water state revolve fund,object_policies_other
+california solar initiative,object_policies_other
+cache creek resource management plan,object_policies_other
+american recovery and reinvestment act,object_policies_other
+coastal trust fund,object_policies_other
+greenhouse gas reduction fund,object_policies_other
+harbor and navigation code,object_policies_other
+code of civil procedure,object_policies_other
+california constitution,object_policies_other
+attainment area,object_policies_other
+nonattainment area,object_policies_other
+ozone control area,object_policies_other
+mineral land lease act,object_policies_other
+state constitution,object_policies_other
+administrative procedure act,object_policies_other
+administrative order,object_policies_other
+judicial review,object_policies_other
+substitute water supply plan,object_policies_other
+water quality control act,object_policies_other
+correlative right,object_policies_other
+eminent domain,object_policies_other
+condemnation,object_policies_other
+augmentation plan,object_policies_other
+adjudication,object_policies_other
+statutory directive,object_policies_other
+regulation,object_policies_other
+case law,object_policies_other
+water right,object_policies_other
+new solar home partnership program,object_policies_other
+native american grave protection and repatriation act,object_policies_other
+unite state code,object_policies_other
+code of federal regulation,object_policies_other
+burton act land,object_policies_other
+burton act,object_policies_other
+1958 act,object_policies_other
+federal facility agreement,object_policies_other
+public resource code,object_policies_other
+procurement code,object_policies_other
+uniform commercial code,object_policies_other
+water code,object_policies_other
+evidence code,object_policies_other
+uniform trade secret act,object_policies_other
+california public record act,object_policies_other
+government code,object_policies_other
+business and profession code,object_policies_other
+civil code,object_policies_other
+osteopathic initiative act,object_policies_other
+chiropractic initiative act,object_policies_other
+emergency medical service system,object_policies_other
+prehospital emergency medical care personnel act,object_policies_other
+health and safety code,object_policies_other
+rule on mandatory report of greenhouse gas,object_policies_other
+cap and trade regulation,object_policies_other
+cap and trade program,object_policies_other
+mandatory report regulation,object_policies_other
+cost of implementation fee regulation,object_policies_other
+california code of regulation,object_policies_other
+executive order,object_policies_other
+public health and safety,object_envir_health
+public health,object_envir_health
+health and safety,object_envir_health
+health need,object_envir_health
+public peace,object_envir_health
+sensitive area,object_envir_health
+crop land,object_envir_health
+top soil,object_envir_health
+medical treatment,object_envir_health
+water quality,object_envir_health
+air quality,object_envir_health
+wildlife resource,object_envir_health
+wildlife habitat,object_envir_health
+nonpotable water,object_envir_health
+underground aquifer,object_envir_health
+underground water,object_envir_health
+natural surface,object_envir_health
+nontributary groundwater,object_envir_health
+grind water,object_envir_health
+perennial stream,object_envir_health
+stream,object_envir_health
+aquifer,object_envir_health
+natural environment,object_envir_health
+stormwater,object_envir_health
+water body,object_envir_health
+floodplain,object_envir_health
+fish,object_envir_health
+elk,object_envir_health
+deer,object_envir_health
+antelope,object_envir_health
+eagle,object_envir_health
+prairie chicken,object_envir_health
+grouse,object_envir_health
+bighorn sheep,object_envir_health
+water resource,object_envir_health
+watershed,object_envir_health
+wetland,object_envir_health
+marine water,object_envir_health
+marshland,object_envir_health
+natural resource,object_envir_health
+general welfare,object_envir_health
+grant land,object_envir_health
+tideland,object_envir_health
+trust land,object_envir_health
+native plant,object_envir_health
+submerge land,object_envir_health
+public water service well,object_envir_health
+private groundwater use,object_envir_health
+human occupancy,object_envir_health
+gas leak,object_negexternalities
+contamination,object_negexternalities
+contaminant,object_negexternalities
+surface disturbance,object_negexternalities
+environmental concern,object_negexternalities
+ep waste,object_negexternalities
+methane gas,object_negexternalities
+methane concentration,object_negexternalities
+benzene toluene ethylbenzene and xylene,object_negexternalities
+btex,object_negexternalities
+hazardous material,object_negexternalities
+hazardous liquid,object_negexternalities
+hazardous chemical,object_negexternalities
+hazardous waste,object_negexternalities
+drill waste,object_negexternalities
+hazardous substance,object_negexternalities
+hazardous,object_negexternalities
+harmful,object_negexternalities
+ozone,object_negexternalities
+volatile organic compound,object_negexternalities
+nitrogen oxide,object_negexternalities
+visual impact,object_negexternalities
+produce water,object_negexternalities
+voc,object_negexternalities
+discharge,object_negexternalities
+runoff,object_negexternalities
+commercial wastewater disposal well,object_negexternalities
+wastewater fluid,object_negexternalities
+wastewater,object_negexternalities
+waste,object_negexternalities
+vapor,object_negexternalities
+erosion,object_negexternalities
+emergency,object_negexternalities
+adverse impact,object_negexternalities
+odor,object_negexternalities
+dust,object_negexternalities
+chemical,object_negexternalities
+compaction,object_negexternalities
+greenhouse gas emission,object_negexternalities
+emission,object_negexternalities
+ghg,object_negexternalities
+co2,object_negexternalities
+ch4,object_negexternalities
+n2o,object_negexternalities
+carbon dioxide project,object_ogdevelopment
+carbon dioxide,object_negexternalities
+biomethane,object_negexternalities
+valve leakage,object_negexternalities
+valve,object_ogdevelopment
+blowout,object_negexternalities
+seepage,object_negexternalities
+radioactive material,object_negexternalities
+pollutant,object_negexternalities
+spill,object_negexternalities
+fire,object_negexternalities
+bodily harm,object_negexternalities
+harm,object_negexternalities
+corrosion prevention,object_negexternalities
+corrosion control,object_negexternalities
+corrosion,object_negexternalities
+damage,object_negexternalities
+tank inspection,object_negexternalities
+tank,object_ogdevelopment
+gauge maintenance,object_negexternalities
+containment maintenance,object_negexternalities
+earthquake,object_negexternalities
+injure,object_negexternalities
+public nuisance,object_negexternalities
+hazard,object_negexternalities
+systemic risk,object_negexternalities
+explosion,object_negexternalities
+dangerous condition,object_negexternalities
+accident,object_negexternalities
+disturb activity,object_negexternalities
+disturb,object_negexternalities
+occupational,object_negexternalities
+flowback fluid,object_negexternalities
+greenhouse gas,object_negexternalities
+habitat fragmentation,object_negexternalities
+habitat,object_envir_health
+water and surface contamination,object_negexternalities
+noise pollution,object_negexternalities
+noise,object_negexternalities
+induce seismicity,object_negexternalities
+seismicity,object_negexternalities
+seismic,object_negexternalities
+disposal,object_negexternalities
+commingled water,object_negexternalities
+specific disposition of all water,object_negexternalities
+molybdenum ore,object_resource
+molybdenum,object_resource
+petroleum,object_resource
+organic material,object_resource
+metallic mineral,object_resource
+coal be methane well,object_resource
+cbm well,object_resource
+crude oil,object_resource
+mineral resource,object_resource
+mineral fuel,object_resource
+fuel resource,object_resource
+high cost gas,object_resource
+marginal gas,object_resource
+new discovery gas,object_resource
+oil or natural gas,object_resource
+oil or gas,object_resource
+oil and gas reserve,object_resource
+oil and gas resource,object_resource
+oil and natural gas,object_resource
+oil and gas,object_resource
+natural gas,object_resource
+pool,object_resource
+fuel,object_resource
+vein,object_resource
+ledge,object_resource
+lode,object_resource
+deposit,object_resource
+gas or liquid hydrocarbon,object_resource
+liquid hydrocarbon,object_resource
+hydrocarbon,object_resource
+reservoir protective area,object_resource
+shale reservoir,object_resource
+reservoir,object_resource
+source of water,object_resource
+water source,object_resource
+tds,object_resource
+total dissolve solid,object_resource
+bioga,object_resource
+pico formation,object_resource
+tumey formation,object_resource
+kern river formation,object_resource
+santa margarita formation,object_resource
+chanac formation,object_resource
+walker formation,object_resource
+olcese formation,object_resource
+tight gas formation,object_resource
+bear formation,object_resource
+target formation,object_resource
+geological formation,object_resource
+gas pool,object_resource
+bunker gas field,object_resource
+analyze,rule_info
+analysis,rule_info
+ask,rule_info
+assess,rule_info
+attach,rule_info
+call,rule_info
+collect,rule_info
+comment,rule_info
+confidential,rule_info
+contain,rule_info
+deliver,rule_info
+describe,rule_info
+detect,rule_info
+determine,rule_info
+disclose,rule_info
+disclosure,rule_info
+discover,rule_info
+docket,rule_info
+document,rule_info
+estimate,rule_info
+evaluate,rule_info
+file,rule_info
+hear,rule_info
+identify,rule_info
+indicate,rule_info
+inform,rule_info
+inspect,rule_info
+appraisal,rule_info
+inventory,rule_info
+list,rule_info
+log,rule_info
+map,rule_info
+measure,rule_info
+monitor,rule_info
+renotification,rule_info
+notification,rule_info
+note,rule_info
+notice,rule_info
+notify,rule_info
+post,rule_info
+publish,rule_info
+receive,rule_info
+recordkeeping,rule_info
+core record,rule_info
+property record,rule_info
+record,rule_info
+register,rule_info
+registry,rule_info
+registration,rule_info
+request,rule_info
+respond,rule_info
+pond,object_negexternalities
+retain,rule_info
+return,rule_info
+review,rule_info
+sample,rule_info
+search,rule_info
+send,rule_info
+show,rule_info
+specify,rule_info
+submit,rule_info
+supply,rule_info
+survey,rule_info
+investigate,rule_info
+refuse to accept,rule_info
+accept,rule_info
+permission,rule_info
+write order,rule_info
+recitation,rule_info
+explanation,rule_info
+certify mail,rule_info
+factula find,rule_info
+legal conclusion,rule_info
+rationale for the result,rule_info
+write decision,rule_info
+accurate account,rule_info
+patrol,rule_info
+print form,rule_info
+internet web site,rule_info
+feasibility study report,rule_info
+spot check,rule_info
+environmental impact report,rule_info
+environment,object_envir_health
+scientific study,rule_info
+publication,rule_info
+calibration,rule_info
+calibrate,rule_info
+meter,rule_info
+submission,rule_info
+seismograph test,rule_info
+court order,rule_enforcement
+corrective action,rule_enforcement
+enforcement action,rule_enforcement
+enforcement,rule_enforcement
+enforce,rule_enforcement
+adjudicate,rule_enforcement
+mislocate,rule_enforcement
+fail,rule_enforcement
+unconventional gas well fee,rule_enforcement
+unconventional gas well,object_ogdevelopment
+conventional gas well,object_ogdevelopment
+delinquent fee,rule_enforcement
+restoration fee,rule_enforcement
+fee,rule_enforcement
+negligence,rule_enforcement
+know and willful misconduct,rule_enforcement
+noncompliance,rule_enforcement
+out of compliance,rule_enforcement
+compliance failure,rule_enforcement
+permit relate penalty,rule_enforcement
+prohibit,rule_enforcement
+subpoena,rule_enforcement
+violation,rule_enforcement
+violate,rule_enforcement
+deficiency,rule_enforcement
+deficient,rule_enforcement
+misconduct,rule_enforcement
+deadline,rule_enforcement
+seize,rule_enforcement
+liability,rule_enforcement
+condemn,rule_enforcement
+comply,rule_enforcement
+compel compliance,rule_enforcement
+compliance,rule_enforcement
+cease and desist,rule_enforcement
+convict,rule_enforcement
+imprison,rule_enforcement
+jail,rule_enforcement
+punish,rule_enforcement
+prison,rule_enforcement
+civil penalty,rule_enforcement
+crime,rule_enforcement
+infraction,rule_enforcement
+testimony,rule_enforcement
+nonconformance,rule_enforcement
+data check,rule_enforcement
+data,rule_info
+discrepancy,rule_enforcement
+omission,rule_enforcement
+misreporting,rule_enforcement
+report,rule_info
+consent,rule_aggregation
+consult,rule_aggregation
+consultation,rule_aggregation
+discussion,rule_aggregation
+resolve,rule_aggregation
+mediation,rule_aggregation
+reach agreement,rule_aggregation
+reach,rule_aggregation
+convene,rule_aggregation
+agreement,rule_aggregation
+agree,rule_aggregation
+negotiation,rule_aggregation
+negotiate,rule_aggregation
+resolution,rule_aggregation
+settlement,rule_aggregation
+settle,rule_aggregation
+acknowledge,rule_aggregation
+collaborative,rule_aggregation
+adopt,rule_authority
+apply,rule_authority
+approve,rule_authority
+assure,rule_authority
+certify,rule_authority
+choose,rule_authority
+co chair,rule_authority
+commence,rule_authority
+confirm,rule_authority
+conform,rule_authority
+consider,rule_authority
+construe,rule_authority
+create,rule_authority
+delay,rule_authority
+deny,rule_authority
+dismiss,rule_authority
+elect,rule_authority
+ensure,rule_authority
+except,rule_authority
+exempt,rule_authority
+expedite,rule_authority
+give priority,rule_authority
+govern,rule_authority
+implementation,rule_authority
+implement,rule_authority
+impose,rule_enforcement
+infer,rule_authority
+initiate,rule_authority
+intend,rule_authority
+limit,rule_authority
+mandate,rule_authority
+negate,rule_authority
+obtain,rule_authority
+objection,rule_authority
+omit,rule_authority
+opt out,rule_authority
+participate,rule_authority
+pass,rule_authority
+promulgate,rule_authority
+raise,rule_authority
+recommend,rule_authority
+refuse,rule_authority
+regulate,rule_authority
+reject,rule_authority
+remand,rule_authority
+remedy,rule_authority
+repeal,rule_authority
+represent,rule_authority
+rescind,rule_authority
+safeguard,rule_authority
+seek,rule_authority
+select,rule_authority
+subject,rule_authority
+supersede,rule_authority
+support,rule_authority
+terminate,rule_authority
+vacate,rule_authority
+verify,rule_authority
+waive restriction,rule_authority
+restriction,rule_authority
+waive,rule_authority
+withdraw,rule_authority
+withhold,rule_authority
+appeal,rule_authority
+confer,rule_authority
+duty,rule_authority
+sue,rule_authority
+civil action,rule_authority
+legal action,rule_authority
+petition,rule_authority
+jurisdiction,rule_authority
+writ of administrative mandamus,rule_authority
+continue to completion,rule_authority
+obligation,rule_authority
+exercise,rule_authority
+authorize,rule_authority
+abandon,rule_choice
+allocate,rule_choice
+anchor,rule_choice
+avoid,rule_choice
+calculate,rule_choice
+conduct,rule_choice
+dispose,rule_choice
+employ,rule_choice
+empty,rule_choice
+engage,rule_choice
+establish,rule_choice
+float,rule_choice
+flush,rule_choice
+include,rule_choice
+install,rule_choice
+keep,rule_choice
+load,rule_choice
+locate,rule_choice
+maintain,rule_choice
+recondition,rule_choice
+make,rule_choice
+minimize,rule_choice
+mitigate,rule_choice
+operate,rule_choice
+perform,rule_choice
+prevent,rule_choice
+vent,object_ogdevelopment
+remain,rule_choice
+remediate,rule_choice
+repair,rule_choice
+release,rule_choice
+secure,rule_choice
+sort,rule_choice
+store,rule_choice
+transfer,rule_choice
+use,rule_choice
+utilize,rule_choice
+clean up,rule_choice
+relinquish,rule_choice
+construct,rule_choice
+alter,rule_choice
+decommission,rule_choice
+restrain,rule_choice
+modify,rule_choice
+set aside,rule_choice
+water and mineral test,rule_choice
+test,rule_info
+removal of debris and equipment,rule_choice
+excavation,rule_choice
+prospect,rule_choice
+extract operation,rule_choice
+accreditation,rule_choice
+accredit,rule_choice
+mean,rule_constitutive
+define,rule_constitutive
+fine or penalty,rule_enforcement
+fine and penalty,rule_enforcement
+fine,rule_enforcement
+penalty,rule_enforcement
+exclud,rule_constitutive
+constitute,rule_constitutive
+become,rule_constitutive
+incorporate,rule_info
+comprise,rule_constitutive
+declare,rule_constitutive
+proclaim,rule_constitutive
+proclamation,rule_constitutive
+deem,rule_constitutive
+may,rule_deontic_may
+be allow,rule_deontic_may
+be permit,rule_deontic_may
+must,rule_deontic_must
+shall,rule_deontic_must
+be not be,rule_deontic_must
+be be,rule_deontic_must
+willdeontic,rule_deontic_must
+should,rule_deontic_should
+requirement,rule_deontic_must
+require,rule_deontic_must
+ought to,rule_deontic_must
+have to,rule_deontic_must
+has to,rule_deontic_must
+need to,rule_deontic_must
+compel to,rule_deontic_must
+distribute,rule_payoff
+pay,rule_payoff
+levy,rule_payoff
+reimbursement,rule_payoff
+entitle,rule_payoff
+credit,rule_payoff
+compensate,rule_payoff
+designate,rule_position
+appoint,rule_position
+compose,rule_position
+serve,rule_position
+house,object_infrastructure
+coal,object_resource
+oil,object_resource
+gas,object_resource
+pollution,object_negexternalities
+groundwater,object_envir_health
+freshwater,object_envir_health
+fresh water,object_envir_health
+clean water,object_envir_health
+water,object_envir_health
+acid,object_ogdevelopment
+fluid,object_ogdevelopment
+mineral,object_resource
+wellbore,object_ogdevelopment
+flowback,object_ogdevelopment
+mine,object_ogdevelopment
+pipeline,object_ogdevelopment
+equipment,object_ogdevelopment
+facility,object_infrastructure
+write,rule_info
+study,rule_info
+find,rule_info
+fund,object_tax_finance
+tax,object_tax_finance
